@@ -3,6 +3,9 @@
 
 - 👋 Hi ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - B U K H O                  S O M H L A H L O - ɪᴀᴍ ᴀ ғᴜʟʟ-𝐬ᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ....😎 
 -<b>Welcome to my GitHub!<br><br> I am a pasionate intern enrolled in fullstack development program. With a thirst for knowledge and drive to excel in the world of technology. I am honing my skills and expanding my expertise in the both font-end and back-end development.
+# 💻 Tech Stack:
+![image](https://github.com/bukhosomhlahlo/bukhosomhlahlo/assets/159022974/c989c971-8bde-4c39-a8a5-0d554b50d9e5)
+
 
 
 
